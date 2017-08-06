@@ -1,0 +1,26 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^3.10.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrei08vl/angular-todo.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "Andrei_nicolae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrei08vl/angular-todo/issues"
+  },
+  "homepage": "https://github.com/andrei08vl/angular-todo#readme"
+}
